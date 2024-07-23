@@ -7,8 +7,8 @@ GCPからAPIキーとGOOGLE_APPLICATION_CREDENTIALSのJSONを取得してくだ�
 
 ### How to exec
 #### 仮想環境を作って動かす
-`python3 -m venv myenv` or `python -m venv myenv`
-`source myenv/bin/activate`
-`pip install -r requirements.txt`
-`python app.py`
+`python3 -m venv myenv` or `python -m venv myenv`<br />
+`source myenv/bin/activate`<br />
+`pip install -r requirements.txt`<br />
+`python app.py`<br />
 ※ 最初の実行はちょっと時間がかかります。
