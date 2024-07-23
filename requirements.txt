@@ -1,0 +1,4 @@
+scikit-learn
+numpy
+google-api-python-client
+janome
